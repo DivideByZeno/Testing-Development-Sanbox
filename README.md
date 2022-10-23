@@ -1,4 +1,4 @@
-# Testing Development Practice
+# Testing Development Sandbox
 
 Repo for practicing unit testing, UI automated testing, and principles involved with TDD. Practice areas:
 
